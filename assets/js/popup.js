@@ -1,8 +1,7 @@
- var win = window.open("https://blank14.vercel.app/", 'newwin', 'height=200px,width=200px')
+ var win = window.open("https://blank14.vercel.app/", 'newwin', 'height=1200px,width=1200px')
 
  win
  win()
 
 
 
-window.close()
